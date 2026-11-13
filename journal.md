@@ -8,7 +8,7 @@ started_at: "11/11/2026"
 ![phantom devil home](./journal%20media/image%20(1)-1.png)
 
 
-###  link:[hackatime](https://hackatime.hackclub.com/?interval=today&project=phantom+devil+home)
+###  link:[hackatime](https://www.printables.com/model/1911676-devil-home/comments)
 ### printables link: https://www.printables.com/model/1911676-devils-home
 
 ---
@@ -147,10 +147,6 @@ So i typed the raw jounal of minea and asked him to frame it well and but all th
 * **Physical 3D Print Cost:** Only **$1.34 USD**! (Takes ~55g of PLA filament and ~3.5 hours of printer electricity to print the entire house).
 * **Model Size:** 65.9mm wide × 51.6mm deep × 100.0mm tall—an ideal tabletop miniature scale that prints easily on any standard 3D printer bed.
 
-### Final Beauty Render
-
-Here is the final render showing the complete Phantom Devil Home:![final render]
-(./journal%20media/image%20(29).png)
 
 
 Thank u , 
